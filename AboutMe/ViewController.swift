@@ -10,11 +10,14 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    // MARK: - IBOutlets
+    @IBOutlet weak var nameLabel: UILabel!
+    @IBOutlet weak var hobbiesLabel: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
-        print("My name is Sean Acres")
-        print("This is another change")
+        nameLabel.text = "Sean Acres"
+        hobbiesLabel.text = "Karaoke, foosball, BBQ, brewing"
     }
 
 
