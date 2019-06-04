@@ -22,6 +22,7 @@
 		6625D58622A6D0750089782A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6625D58922A6D0750089782A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6625D58B22A6D0750089782A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6625D59122A6E43B0089782A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 				6625D57F22A6D0740089782A /* AppDelegate.swift */,
 				6625D58122A6D0740089782A /* ViewController.swift */,
 				6625D58322A6D0740089782A /* Main.storyboard */,
+				6625D59122A6E43B0089782A /* README.md */,
 				6625D58622A6D0750089782A /* Assets.xcassets */,
 				6625D58822A6D0750089782A /* LaunchScreen.storyboard */,
 				6625D58B22A6D0750089782A /* Info.plist */,
