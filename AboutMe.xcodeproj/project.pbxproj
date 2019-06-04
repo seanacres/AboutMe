@@ -39,6 +39,7 @@
 		6625D57322A6D0740089782A = {
 			isa = PBXGroup;
 			children = (
+				6625D59122A6E43B0089782A /* README.md */,
 				6625D57E22A6D0740089782A /* AboutMe */,
 				6625D57D22A6D0740089782A /* Products */,
 			);
@@ -58,7 +59,6 @@
 				6625D57F22A6D0740089782A /* AppDelegate.swift */,
 				6625D58122A6D0740089782A /* ViewController.swift */,
 				6625D58322A6D0740089782A /* Main.storyboard */,
-				6625D59122A6E43B0089782A /* README.md */,
 				6625D58622A6D0750089782A /* Assets.xcassets */,
 				6625D58822A6D0750089782A /* LaunchScreen.storyboard */,
 				6625D58B22A6D0750089782A /* Info.plist */,
